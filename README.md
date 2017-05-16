@@ -1,6 +1,7 @@
-# include<stdio.h>
+#include<stdio.h>
 int main()
 {
 int a,b,c;
-c=a-b;
-return 0;}
+c=a*b;
+return 0;
+}
